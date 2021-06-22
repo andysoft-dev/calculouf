@@ -1,3 +1,7 @@
+/*
+Creator: Andy Jara M.
+*/
+
 CREATE PROC [dbo].[PA_CALCULOUF]
 (
 @MES INT,
